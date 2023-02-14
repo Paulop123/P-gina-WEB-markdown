@@ -21,7 +21,7 @@ para aprender y crecer dentro de ese mundo.
 Aquí hay algunos de mis proyectos más destacados:
 
 
--[Base de datos para un sistema de facturacion]: Este proyecto se realizo en una base de datos en Oracle en donde se creo una base de datos para almacenar los datos de todo un sistema de facturacion.
+- Base de datos para un sistema de facturacion: Este proyecto se realizo en una base de datos en Oracle en donde se creo una base de datos para almacenar los datos de todo un sistema de facturacion.
 
 - Sistema de gestion de arbitros: Este proyecto se realizo utilazando el lenguaje de programacion Java en donde se creo una interfaz grafica para vizualizar, insertar y modificar los arbitros de futbol alamacenados en una base de datos.
 
