@@ -1,7 +1,7 @@
 
 # Bienvenido a mi página de GitHub
 
-(D:\Varias tareas\Foto Perfil.jpg)
+*!(D:\Varias tareas\Foto Perfil.jpg)
 
 
 
