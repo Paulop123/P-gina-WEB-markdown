@@ -1,7 +1,7 @@
 
 # Bienvenido a mi página de GitHub
 
-![Foto de perfil] (C:/Users/kevin/OneDrive/Escritorio/Fotos/Foto Perfil.jpg)
+![Foto de perfil](C:/Users/kevin/OneDrive/Escritorio/Fotos/FotoPerfil.jpg)
 
 
 Hola, mi nombre es Kevin Lañon y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
