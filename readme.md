@@ -1,8 +1,7 @@
 
 # Bienvenido a mi página de GitHub
 
-*!(D:\Varias tareas\Foto Perfil.jpg)
-
+*![Foto de perfil](D:\Varias tareas\Foto Perfil.jpg)
 
 
 Hola, mi nombre es Kevin Lañon y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
@@ -12,32 +11,28 @@ Hola, mi nombre es Kevin Lañon y este es mi sitio en GitHub Pages. Este sitio e
 ## Acerca de mí
 
 
-
 Soy un estudiante de tiempo completo. Me apasionan los videojuegos y la informatica en general y estoy siempre buscando nuevos desafíos y oportunidades 
 para aprender y crecer dentro de ese mundo.
 
 
-
-## Proyectos
+## Proyectos personales
 
 
 Aquí hay algunos de mis proyectos más destacados:
 
 
 
-- [Nombre del proyecto 1](link al proyecto 1): Una descripción breve del proyecto 1.
+- [Base de datos para un sistema de facturacion]: Este proyecto se realizo en una base de datos en Oracle en donde se creo una base de datos para almacenar los datos de todo un sistema de facturacion.
 
-- [Nombre del proyecto 2](link al proyecto 2): Una descripción breve del proyecto 2.
+- [Sistema de gestion de arbitros]: Este proyecto se realizo utilazando el lenguaje de programacion Java en donde se creo una interfaz grafica para vizualizar, insertar y modificar los arbitros de futbol alamacenados en una base de datos.
 
-- [Nombre del proyecto 3](link al proyecto 3): Una descripción breve del proyecto 3.
+- [Sistema de ingreso de notas]: Este proyecto se realizo utilazando el lenguaje de programacion Java en donde se creo una pequeño sistema para ingresar notas de estudiantes y almacenarlos en un fichero.
 
 
 
 ## Contacto
 
-
-
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en [tu correo electrónico]. También puede encontrarme en [tus perfiles en las redes sociales].
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en kevin.lanona@ug.edu.ec. 
 
 
 
