@@ -1,7 +1,7 @@
 
 # Bienvenido a mi página de GitHub
 
-![Perfil](D:/Varias tareas/Fotos/Foto Perfil.jpg)
+![Perfil](https://github.com/Paulop123/Pagina_WEB_markdown/blob/main/Foto%20Perfil.jpg)
 
 
 Hola, mi nombre es Kevin Lañon y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
